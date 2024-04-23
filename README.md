@@ -40,4 +40,4 @@ I'm always open to collaboration, learning opportunities, and connecting with fe
 
 Let's build something amazing together!
 
-[![Coopers's GitHub stats](https://github-readme-stats.vercel.app/api?username=CooperW824&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Coopers's GitHub stats](https://github-readme-stats.vercel.app/api?username=CooperW824&theme=dark)](https://github.com/CooperW824)
