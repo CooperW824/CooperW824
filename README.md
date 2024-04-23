@@ -1,6 +1,6 @@
-# Cooper Werner
+# Cooper Werner 👋
 
-Hello there! I'm Cooper Werner, a sophomore Computer Science student at Rensselaer Polytechnic Institute (RPI). With a year of professional experience in Web and Cloud Development, I'm passionate about exploring the diverse realms of Computer Science. From crafting sleek web applications to delving into intricate systems architecture and diving deep into the realms of Artificial Intelligence, I'm always eager to learn and contribute to exciting projects.
+Hello there! I'm Cooper Werner, a sophomore Computer Science student at Rensselaer Polytechnic Institute (RPI). With a year of professional experience in Web and Cloud Development, I'm passionate about exploring the diverse aspects of Computer Science. From crafting sleek web applications to designing intricate systems architecture and diving deep into the realms of Artificial Intelligence, I'm always eager to learn and contribute to exciting projects.
 
 ## About Me
 
