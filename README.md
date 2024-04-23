@@ -2,7 +2,7 @@
 
 Hello there! I'm Cooper Werner, a sophomore Computer Science student at Rensselaer Polytechnic Institute (RPI). With a year of professional experience in Web and Cloud Development, I'm passionate about exploring the diverse aspects of Computer Science. From crafting sleek web applications to designing intricate systems architecture and diving deep into the realms of Artificial Intelligence, I'm always eager to learn and contribute to exciting projects.
 
-## About Me
+## About Me 👨🏼
 
 - **Name:** Cooper Werner
 - **Education:** Sophomore CS student at Rensselaer Polytechnic Institute (RPI)
@@ -11,7 +11,7 @@ Hello there! I'm Cooper Werner, a sophomore Computer Science student at Renssela
     2. TechSlice (August 2022 - August 2023) Utilized AWS, NextJS, Nuxt3, and Terraform to build high performant cloud and web applications.
     3. Software Magic and Rainbows ( June 2021 - August 2021) Created C++ and Python Plugins to injest USB and Serial Data into the Hobbits data analysis tool.
 
-## Interests
+## Interests 🤔
 
 My interests span across various domains within Computer Science:
 
@@ -19,7 +19,7 @@ My interests span across various domains within Computer Science:
 - **Systems Development:** Designing robust and scalable systems architectures to tackle complex challenges.
 - **Artificial Intelligence:** Exploring the fascinating world of AI to develop intelligent solutions that push boundaries.
 
-## Projects
+## Projects 💻
 
 I'm actively involved in a variety of projects, ranging from Web Development to Systems and AI. Here are some highlights:
 
@@ -29,14 +29,14 @@ I'm actively involved in a variety of projects, ranging from Web Development to 
 
 Feel free to explore my repositories to learn more about my work!
 
-## Get in Touch
+## Get in Touch 🌐
 
 I'm always open to collaboration, learning opportunities, and connecting with fellow enthusiasts. Don't hesitate to reach out:
 
-- **Email:** [cooperwerner824@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/cooperwerner/]
-- **Website:** [https://cooperw.tech]
-- **Blog:** [https://blog.cooperw.tech]
+- **📧 Email:** [cooperwerner824@gmail.com]
+- **👨🏼‍💻 LinkedIn:** [https://www.linkedin.com/in/cooperwerner/]
+- **🌐 Website:** [https://cooperw.tech]
+- **📤 Blog:** [https://blog.cooperw.tech]
 
 Let's build something amazing together!
 
