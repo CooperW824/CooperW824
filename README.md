@@ -1,6 +1,6 @@
 # Cooper Werner 👋
 
-Hello there! I'm Cooper Werner, a sophomore Computer Science student at Rensselaer Polytechnic Institute (RPI). With a year of professional experience in Web and Cloud Development, I'm passionate about exploring the diverse aspects of Computer Science. From crafting sleek web applications to designing intricate systems architecture and diving deep into the realms of Artificial Intelligence, I'm always eager to learn and contribute to exciting projects.
+Hello there! I'm Cooper Werner, a junior Computer Science student at Rensselaer Polytechnic Institute (RPI). With a year of professional experience in Web and Cloud Development, I'm passionate about exploring the diverse aspects of Computer Science. From crafting sleek web applications to designing intricate systems architecture and diving deep into the realms of Artificial Intelligence, I'm always eager to learn and contribute to exciting projects.
 
 ## About Me 👨🏼
 
@@ -9,7 +9,8 @@ Hello there! I'm Cooper Werner, a sophomore Computer Science student at Renssela
 - **Experience:**
     1. Paraxial Technologies (March 2024 - Present) Utilizing AWS, C++, and Computer Vision to detect lung cancer.
     2. TechSlice (August 2022 - August 2023) Utilized AWS, NextJS, Nuxt3, and Terraform to build high performant cloud and web applications.
-    3. Software Magic and Rainbows ( June 2021 - August 2021) Created C++ and Python Plugins to injest USB and Serial Data into the Hobbits data analysis tool.
+    3. Bellese Technologies (July 2022 - August 2022) Shadowed a team of 20+ software engineers across two companies learning Agile Methodologies and development techniques.
+    4. Software Magic and Rainbows ( June 2021 - August 2021) Created C++ and Python Plugins to injest USB and Serial Data into the Hobbits data analysis tool.
 
 ## Interests 🤔
 
