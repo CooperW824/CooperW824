@@ -24,9 +24,9 @@ My interests span across various domains within Computer Science:
 
 I'm actively involved in a variety of projects, ranging from Web Development to Systems and AI. Here are some highlights:
 
-- **Project 1:** HackRPI Hackathon Website - Leading design and development of the Website for RPI's annual hackathon, built with NextJS, Tailwind, and AWS Amplify.
-- **Project 2:** HackRPI Mini Event API - Designed and implemented a basic CRUD Todo API as a teaching tool for HackRPI's "What the Hack is an RPI?" Mini-Event. Over the course of the event the API handled 109,000 requests, with an average latency of 80ms and a 5xx error rate of 0.12%.
-- **Project 3:** RPI Spaceflight Society Rocket Engine - Architecting command and control protocols to communicate commands and data from a bi-propellant rocket engine test stand. The data travels over 100m via ethernet with robust and safe code to ensure safe operation of the engine.
+- **HackRPI Hackathon Website** - Leading design and development of the Website for RPI's annual hackathon, built with NextJS, Tailwind, and AWS Amplify.
+- **HackRPI Mini Event API** - Designed and implemented a basic CRUD Todo API as a teaching tool for HackRPI's "What the Hack is an RPI?" Mini-Event. Over the course of the event the API handled 109,000 requests, with an average latency of 80ms and a 5xx error rate of 0.12%.
+- **RPI Spaceflight Society Rocket Engine** - Architecting command and control protocols to communicate commands and data from a bi-propellant rocket engine test stand. The data travels over 100m via ethernet with robust and safe code to ensure safe operation of the engine.
 
 Feel free to explore my repositories to learn more about my work!
 
