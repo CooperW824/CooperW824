@@ -5,7 +5,7 @@ Hello there! I'm Cooper Werner, a junior Computer Science student at Rensselaer 
 ## About Me 👨🏼
 
 - **Name:** Cooper Werner
-- **Education:** Sophomore CS student at Rensselaer Polytechnic Institute (RPI)
+- **Education:** Junior CS student at Rensselaer Polytechnic Institute (RPI)
 - **Experience:**
     1. Paraxial Technologies (March 2024 - Present) Utilizing AWS, C++, and Computer Vision to detect lung cancer.
     2. TechSlice (August 2022 - August 2023) Utilized AWS, NextJS, Nuxt3, and Terraform to build high performant cloud and web applications.
